@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Prayer Schedule
 # Coded by Senja
-# Github: github.com/thesixtynine/Prayer
+# Github: github.com/thedarksec/Prayer
 
 import os, sys, time, requests, json
 
@@ -29,7 +29,7 @@ def main():
     print
     print "\033[0m[\033[1;94m#\033[0m] Prayer Schedule"
     print "\033[0m[\033[1;93m*\033[0m] Coded by Senja"
-    print "\033[0m[\033[1;96m&\033[0m] My Github: @thesixtynine"
+    print "\033[0m[\033[1;96m&\033[0m] My Github: @thedarksec"
     time.sleep(1)
     print
     srch = raw_input("\033[0m[\033[1;95m+\033[0m] \033[1;77mCity: \033[0m")
