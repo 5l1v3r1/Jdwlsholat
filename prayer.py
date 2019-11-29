@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 # Prayer Schedule
 # Coded by Senja
 # Github: github.com/thedarksec/Prayer
