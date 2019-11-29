@@ -12,20 +12,14 @@ def write(z):
         sys.stdout.flush()
         time.sleep(0.03)
 
-logo = """\033[1;77m
-        ______   ______     ______     __  __
-       /\  == \ /\  == \   /\  __ \   /\ \_\ \   
-       \ \  _-/ \ \  __<   \ \  __ \  \ \____ \  
-        \ \_\    \ \_\ \_\  \ \_\ \_\  \/\_____\ 
-         \/_/     \/_/ /_/   \/_/\/_/   \/_____/ 
-"""
-
 def main():
     os.system('clear')
     os.system("reset")
     time.sleep(1)
     print
-    print logo
+    print
+    os.system('toilet -f pagga prayer schedule')
+    print
     print
     print "\033[0m[\033[1;94m#\033[0m] Prayer Schedule"
     print "\033[0m[\033[1;93m*\033[0m] Coded by Senja"
