@@ -5,7 +5,7 @@
 pkg update && pkg upgrade
 apt-get insatll git
 apt-get install python2
-git clone https://github.com/stephystepexe/Prayersch
+git clone https://github.com/stepbystepexe/Prayersch
 cd Prayersch
 ls
 pytho2 prayersch.py
