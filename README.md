@@ -1,5 +1,3 @@
-<h1 align="center">Prayer Sch</h1>
-
 #### Screenshot:
 ![](./Screenshot.png)
 #### Usage:
