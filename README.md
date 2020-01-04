@@ -1,5 +1,5 @@
 # Screenshot:
-![](./Screenshoot.png)
+![](./Screenshot.png)
 # Usage:
 ```
 pkg update && pkg upgrade
