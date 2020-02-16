@@ -525,18 +525,18 @@ def choice():
 
 def sound():
       if tm('%H:%M') == o[2]:
-            nada = '.fajr'
+            nada = '_.fajr'
       elif tm('%H:%M') == o[1]:
-            nada = '.ims'
+            nada = '_.imsak'
       elif int(tm('%H%M')) == saur:
-            nada = '.saur'
+            nada = '_.saur'
       else:
-            nada = '.reg'
+            nada = '_.regst'
       sp.call(['mpv '+nada],shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
 
 def sholat():
       global txt
-      txt = open('.__','r').readlines()
+      txt = open('._sholat','r').readlines()
       st = [lr,
       'Jangan Di Kembali Kalo Azan, Langsung Sholat Aja',
       'Kalo Di Kembali Otomatis Menghapus SD Card.',
@@ -553,9 +553,9 @@ def sholat():
 def puasa():
       global txt
       if int(tm('%H%M')) == saur:
-            txt = open('.___','r').readlines()
+            txt = open('.puasa','r').readlines()
       else:
-            txt = open('.____','r').readlines()
+            txt = open('._false','r').readlines()
       ttx = Thread(name='puasa',target=sound)
       ttx.start()
       while ttx.isAlive():
