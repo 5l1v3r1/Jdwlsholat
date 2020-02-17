@@ -14,6 +14,10 @@ python3 jdwlsholat.py
 ```
 pip 3 install requirement.txt
 ```
+#### Pendukung:
+```
+apt-get install mpv
+```
 #### Kontak:
 + Email d_q16x@outlook.co.id
 + WhatsApp +62 85775433901
