@@ -12,7 +12,7 @@ python3 jdwlsholat.py
 ```
 
 ```
-pip 3 install requirement.txt
+pip3 install -r requirement.txt
 ```
 #### Pendukung:
 ```
