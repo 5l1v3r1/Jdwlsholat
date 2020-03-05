@@ -1,16 +1,15 @@
 #### Screenshot:
-![](./Screenshot.png)
+![](./Skrinsut.png)
 #### Cara Menginstall:
 ```
 pkg update && pkg upgrade
 apt-get insatll git
-apt-get install python3
+apt-get install python
 git clone https://github.com/stepbystepexe/Jdwlsholat
 cd Jdwlsholat
 ls
 python3 jdwlsholat.py
 ```
-
 ```
 pip3 install -r requirement.txt
 ```
