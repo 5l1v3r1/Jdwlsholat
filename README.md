@@ -1,5 +1,5 @@
 # Jdwlsholat:
-*Bismilah spessial ramadhan 1441 H, saya tambahin alarm buat bangunin waktu sahur.* ```Jadawa Sholat``` *ini bisa mengingatkan kita pada waktu sholat. Kalo udah waktunya adzan langusung sholat aja ya.*
+*Bismilah spessial ramadhan 1441 H, saya tambahin alarm buat bangunin waktu sahur.* ```Jadawal Sholat``` *ini bisa mengingatkan kita pada waktu sholat. Kalo udah waktunya adzan langusung sholat aja ya:)*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
